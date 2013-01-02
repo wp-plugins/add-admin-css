@@ -2,11 +2,11 @@
 /**
  * @package Add_Admin_CSS
  * @author Scott Reilly
- * @version 1.1
+ * @version 1.2
  */
 /*
 Plugin Name: Add Admin CSS
-Version: 1.1
+Version: 1.2
 Plugin URI: http://coffee2code.com/wp-plugins/add-admin-css/
 Author: Scott Reilly
 Author URI: http://coffee2code.com/
@@ -16,7 +16,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Description: Interface for easily defining additional CSS (inline and/or by URL) to be added to all administration pages.
 
-Compatible with WordPress 3.0+ through 3.5+
+Compatible with WordPress 3.1+ through 3.5+
 
 =>> Read the accompanying readme.txt file for instructions and documentation.
 =>> Also, visit the plugin's homepage for additional information and updates.

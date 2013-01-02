@@ -4,7 +4,7 @@ Donate link: http://coffee2code.com/donate
 Tags: admin, css, style, stylesheets, admin theme, customize, coffee2code
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Requires at least: 3.0
+Requires at least: 3.1
 Tested up to: 3.5
 Stable tag: 1.2
 Version: 1.2
@@ -99,6 +99,7 @@ No, not presently.  The CSS is added for any user that can enter the admin secti
 * Add 'License' and 'License URI' header tags to readme.txt and plugin file
 * Minor documentation improvements
 * Note compatibility through WP 3.5+
+* Drop compatibility versions of WP older than 3.1
 * Update copyright date (2013)
 * Minor code reformatting (spacing)
 * Remove ending PHP close tag
@@ -129,7 +130,7 @@ No, not presently.  The CSS is added for any user that can enter the admin secti
 == Upgrade Notice ==
 
 = 1.2 =
-Recommended update. Highlights: stopped wrapping long input field text; updated plugin framework; noted WP 3.5+ compatibility; explicitly stated license; and more.
+Recommended update. Highlights: stopped wrapping long input field text; updated plugin framework; updated WP compatibility as 3.1 - 3.5+; explicitly stated license; and more.
 
 = 1.1 =
 Recommended update: renamed class and filters by prefixing 'c2c_'; noted compatibility through WP 3.3; dropped support for versions of WP older than 3.0; updated plugin framework; deprecate global variable.
